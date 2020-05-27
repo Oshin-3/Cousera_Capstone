@@ -51,7 +51,7 @@ the current restaurants in each region.
 
 ## 4) Results
 
-**Results section where you discuss the results.
+**Results section where you discuss the results.**
 
 Comparing the maps we can notice the majority of the restaurants grouped on main streets and on the south of the city, although 
 some of the welthiest neighborhoods are up to the north. Also, the areas with a dense population don't reflect on the number of 
@@ -60,7 +60,7 @@ restaurants.
 
 ## 5) Discussion
 
-**Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+**Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.**
 
 When I first decided to create this study I was expecting to find clusters of restaurants in certain regions and the final result 
 didn't meet that expectation.
@@ -68,7 +68,7 @@ didn't meet that expectation.
 
 ## 6) Conclusion
 
-**Conclusion section where you conclude the report.
+**Conclusion section where you conclude the report.**
 
 This report may be helpful for someone planning on opening a restaurant in Toronto, by comparing the current offers and 
 neighborhoods profiles, however it may not cover all variables such as access to public transportation or even the restaurants 
